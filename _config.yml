@@ -17,10 +17,10 @@ minimal_mistakes_skin: 'default' # "air", "aqua", "contrast", "dark", "dirt", "n
 # Site Settings
 future: 'true'
 locale: 'en-US'
-title: 'JaeHyeong's blog'
+title: 'Site Title'
 title_separator: '-'
 subtitle: # site tagline that appears below site title in masthead
-name: '고재형(KoJaeHyeong)'
+name: 'Your Name'
 description: 'An amazing website.'
 url: 'https://KoJaeHyeong.github.io'
 baseurl: # the subpath of your site, e.g. "/blog"
