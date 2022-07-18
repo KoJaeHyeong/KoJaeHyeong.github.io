@@ -105,10 +105,10 @@ analytics:
 # Site Author
 author:
   name: '고재형(Kojaehyeng)'
-  avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: '/assets/images/KakaoTalk_Image_2022-05-31-14-41-31_005.jpeg'
   bio: '즐길줄 아는 Backend Developer'
   location: 'South Korea'
-  email: 'jaehyeong1586@gmail.com'
+  email:
   links:
     - label: 'Email'
       icon: 'fas fa-fw fa-envelope-square'
@@ -197,7 +197,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Seoul
 
 # Plugins (previously gems:)
 plugins:
