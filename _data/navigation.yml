@@ -13,7 +13,6 @@ docs:
       - title: 'Tag'
         url: /tags/
 
-docs:
   - title: 'Navigation2'
     children:
       - title: 'Category'
